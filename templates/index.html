@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>{{ homeText.header }}</h1>
+<h3>{{ homeText.header_2 }}</h3>
+
+<div class="grid_8" id="above_fold" >{{ homeText.above_fold|escape|linebreaks }}</div>
+
+<div id="below_fold" class="grid_8">{{ homeText.below_fold|escape|linebreaks }}</div>
+
+{% endblock %}

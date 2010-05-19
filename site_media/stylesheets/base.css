@@ -1,0 +1,228 @@
+
+*
+{
+    margin:0;
+    padding:0;
+}
+
+a:link, a:visited, a:active
+{
+  color: #cccccc;
+}
+
+a:hover
+{
+ color: white;
+}
+
+#nav_1
+{
+  position: relative;
+  width: 960px;
+}
+
+#nav_1 img
+{
+  position: absolute;
+}
+
+#home_link
+{
+  border-left: 1px solid #666666;
+}
+
+#bankruptcy_link
+{
+  left: 160px;
+}
+
+#loan_link
+{
+  left: 321px;
+}
+
+#about_link
+{
+  left: 481px;
+}
+
+#resources_link
+{
+  left: 640px;
+}
+
+#contact_link
+{
+  left: 800px;
+}
+
+#header
+{
+  background-image: url("/site_media/images/masthead.jpg");
+  height: 130px;
+  width: 960px;
+  background-repeat: no-repeat;
+}
+
+#header p, #header h1, #header h2
+{
+  position: absolute;
+  left: -10000px;
+}
+
+#footer p
+{
+  font-size: 11px;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+#footer_right
+{
+  text-align:right;
+}
+
+#footer_left p
+{
+  margin-left: 20px;
+  margin-top: 1em;
+}
+
+#page
+{
+  text-align: center;
+  background-color: #fafafa;
+  min-height: 400px;
+  width: 960px;
+  margin-top: 2.5em;
+}
+
+#nav_2
+{
+  color: #cccccc;
+  padding-top: 2em;
+  padding-bottom: 1em;
+  font-size: 15px;
+  line-height: 20px;
+  background-color: #660000;
+  border: 1px solid black;
+  height: 110px;
+  margin-left: 0.5em;
+}
+
+#content
+{
+  margin-top: 1em;
+  color: black;
+}
+
+#content p
+{
+  text-align: left;
+  margin: 0.5em;
+  margin-right: 2em;
+  margin-left: 2em;
+}
+
+#content a
+{
+  color: black;
+}
+
+#content h1
+{
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#content h3
+{
+  font-size: 15px;
+  line-height: 22px;
+}
+
+body
+{
+    font-family: Georgia,times;
+    font-size: 13px;
+    background-color: black;
+    background-image: url("/site_media/images/background.jpg");
+    color: black;
+    line-height: 18px;
+}
+
+#contact p
+{
+  margin: 0.5em;
+  font-size: 15px;
+}
+
+#contact_bar
+{
+  border: 1px solid #333333;
+  font-size: 16px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: #85b0d5;
+}
+
+#contact_bar a
+{
+  color: black;
+}
+
+#contact_bar h1
+{
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-size: 28px;
+}
+
+#contact_bar h3
+{
+  font-size: 20px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+#save_house, #save_car
+{
+  border: 1px solid #333333;
+  margin-top: 1em;
+  font-size: 14px;
+}
+
+#save_house
+{
+  margin-left: 0.5em;
+}
+
+
+#save_house img, #save_car img
+{
+  width: 200px;
+}
+
+#disclaimer h1
+{
+  font-size:16px;
+  text-decoration: underline;
+}
+
+#disclaimer p
+{
+  margin: 1em;
+}
+
+#footer
+{
+  color: #cccccc;
+}
+
+ul
+{
+  list-style-type:circle;
+  text-align: left;
+  margin-left: 7em;
+  margin-top: 1em;
+}

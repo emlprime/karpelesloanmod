@@ -1,0 +1,88 @@
+[
+    {
+        "pk": 2, 
+        "model": "content.hometext", 
+        "fields": {
+            "date": "2010-04-28", 
+            "header": "Drowning in Debt?  Losing Your Home or Your Business? ", 
+            "header_2": " Regain Control of Your Financial Situation.  Bankruptcy May be the Answer. ", 
+            "below_fold": "", 
+            "above_fold": "Receive a free consultation with a bankruptcy attorney to learn whether filing bankruptcy can provide the financial turning point you need.\r\n\r\n \r\n\r\nBy filing bankruptcy, you can:\r\n\r\n\u00b7       Stop foreclosure proceedings on your home\r\n\r\n\u00b7       Stop harassment from creditors and collection agencies\r\n\r\n\u00b7       Stop lawsuits brought against you\r\n\r\n\u00b7       Negotiate loan modifications or other solutions to home foreclosure\r\n\r\nContrary to popular belief, filing bankruptcy does not necessarily mean the loss of your most valued property and assets--not by a long shot.  A skilled bankruptcy attorney knows how to protect your assets in bankruptcy and make sure you receive the full protection afforded by each legal exemption available to you.  You may be able to retain your home, vehicles, jewelry, family heirlooms, art, bank deposits up to certain amounts, and many other types of real and personal property.  \r\n\r\nFrom its office in Beverly Hills, the law firm of Karpeles & Associates provides debt relief through bankruptcy for individuals and businesses.  No matter what type of financial problem you have, our bankruptcy attorneys have the professional experience and knowledge to help you.\r\n\r\nWe help clients throughout Southern California file for personal or business bankruptcy.  Depending upon your financial situation and whether you seek relief for yourself or for your business, we can help you file for Chapter 7, Chapter 11, or Chapter 13 bankruptcies and get you the debt relief you need."
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.hometext", 
+        "fields": {
+            "date": "2010-04-27", 
+            "header": "This is your header", 
+            "header_2": "This is a second header", 
+            "below_fold": "This is additional information.", 
+            "above_fold": "This is your most important information."
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.aboutbankruptcytext", 
+        "fields": {
+            "date": "2010-04-27", 
+            "text": "This is your text for the about bankruptcy page."
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.loanmodificationstext", 
+        "fields": {
+            "date": "2010-04-27", 
+            "text": "If your home lender is attempting to foreclose on your home, or you are having trouble making your mortgage payments, we can help by working with the bank to modify your mortgage.  We help people stay in their homes. \r\n\r\nDue to the extremely large number of home foreclosures lenders currently face, they are more willing than ever to negotiate with homeowners to modify home loans.  This means we can negotiate lower interest rates, reduce your monthly payments, recapitalize missed payments, or sometimes even lower the principal on your home loan.   \r\n\r\nIf a loan modification is not possible, we can also help you before and during the foreclosure process in other vital ways.  A \u201cshort sale\u201d of your home, for instance, will allow you to settle with the bank for less than the amount left to be paid on your mortgage, allowing you to avoid the blight of a foreclosure on your credit record, and allowing the lender to avoid the expense of foreclosure proceedings. \r\n\r\nUnder a new law passed by the Obama administration, a homeowner who opts for a short sale can receive up to $3,000 in moving expenses, which can also make this option attractive to many borrowers. \r\n\r\nDepending on your situation, other solutions might also be available, such as a deed transfer in lieu of foreclosure, which will allow you to move out of the home on your own terms.  "
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.abouttext", 
+        "fields": {
+            "date": "2010-04-27", 
+            "text": "The law firm of Karpeles & Associates provides successful and effective legal representation in bankruptcy court, both for debtors filing bankruptcy and on behalf of creditors.  In addition to its bankruptcy practice, the firm has an extensive background in real estate, construction, and business law, having represented clients in litigation and transactional matters in virtually every court in the state.  The firm represents individuals and small business filing bankruptcy, as well multinational, publicly traded corporations in the construction, real estate, and business litigation context.  \r\n\r\nThe firm's background in business and real estate law give the attorneys of the firm the litigation and court experience necessary to effectively and aggressively represent clients in bankruptcy.  If your bankruptcy is more than a simple no asset Chapter 7, or if you are a creditor seeking to enforce your legal rights in bankruptcy, the experience of the firm's attorneys in complex litigation and business transactions will help us to achieve the results you need.  \r\n\r\nAt Karpeles & Associates, we strive to provide efficient, effective, and above all successful representation to our clients. If you have any questions or think our firm may be right for you or your company, do not hesitate to contact us."
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.contacttext", 
+        "fields": {
+            "date": "2010-04-27", 
+            "text": "We welcome all inquiries and questions:\r\n\r\nT: 323.782.1344\r\nF: 323.782.1975\r\n\r\nEli J. Karpeles, Esq.\r\neli@karpeleslaw.com\r\n\r\nRyan D. Metheny, Esq.\r\nryan@karpeleslaw.com\r\n\r\nAddress:\r\nKarpeles & Associates\r\n8383 Wilshire Blvd.\r\nSuite 346\r\nBeverly Hills, CA 90211"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.chapter7text", 
+        "fields": {
+            "date": "2010-04-27", 
+            "text": "A Chapter 7 bankruptcy, or \u201cstraight bankruptcy,\u201d is usually the fastest and easiest type of bankruptcy.  By filing Chapter 7, you completely discharge, or wipe out, most forms of debt.  In exchange, your creditors receive the proceeds from a liquidation of qualifying assets by the bankruptcy trustee.  However, you are entitled to keep many of your personal and business assets under California law\u2014including your car, furniture, and sometimes even your home\u2014making a Chapter 7 bankruptcy an appealing option if you qualify for this type of bankruptcy relief.\r\n\r\nA Chapter 7 bankruptcy will enable you to eliminate credit card debt, judgments, medical bills and other types of debt and move forward with your life while retaining all the exempt assets necessary to continuing your day-to-day life.  Chapter 7 bankruptcies also allow owners of failed businesses to close down their operations quickly and efficiently.\r\n\r\nChapter 7 bankruptcy is a good option when you have too much debt, you have too many creditors for debt settlement, and your only significant assets can be protected through the exemptions provided for in California law for necessities like clothing, transportation, and shelter.  Our lawyers can determine which type of bankruptcy is the best debt solution for you or your business."
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.chapter11text", 
+        "fields": {
+            "date": "2010-04-27", 
+            "text": "Chapter 11 bankruptcy gives businesses the opportunity to reorganize their debts and liabilities, paying off creditors over a period of years, often at lesser amounts than originally owed.  A business that files for Chapter 11 is given time and leverage to renegotiate debt with uncooperative creditors, and get out of burdensome leases or contracts.\r\n\r\nChapter 11 is designed for businesses that have too many creditors to negotiate individual debt settlements with each.  It is also normally an option only when your business is likely to be able to continue operating and turning a profit if provided with a restructured debt pay-off plan. \r\n\r\nBusinesses are usually allowed to continue to operate while in Chapter 11 bankruptcy, though they must do so under the supervision of the bankruptcy court. In Chapter 11 bankruptcy, the bankruptcy court can force debt pay-off terms on creditors even when they oppose the terms proposed by the business in bankruptcy.\r\n\r\nWe can help you determine if a Chapter 11 reorganization is right for your business and guide you through this complex and often difficult, but rewarding, process.  "
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.chapter13text", 
+        "fields": {
+            "date": "2010-04-27", 
+            "text": "Chapter 13 bankruptcies, often referred to as Wage Earner\u2019s Plans, are designed for debtors with regular incomes who can pay off their debts in installments over a period of time.  If you meet the qualifications for a Chapter 13 bankruptcy, this type of filing has the advantage of allowing you to restructure your debts and pay them off completely within a specific period, usually 3 to 5 years, after which all of your debts, with certain exceptions, will be completely discharged, or wiped out. \r\n\r\nChapter 13 bankruptcies also have the advantage of enabling you to possibly strip away any second or third mortgage taken out on your home if there is no equity in the home beyond what is owed on the first mortgage. \r\n\r\nIn addition, a Chapter 13 bankruptcy can enable you to catch up on past due mortgage payments and keep your home.  One of the major legislative proposals being discussed by the Obama administration involves the rewriting and reducing of loans on residences where the home has lost considerable value and is \u201cunderwater\u201d\u2014that is, its appraised value is less than the amount due on the mortgage. "
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "content.disclaimertext", 
+        "fields": {
+            "date": "2010-04-27", 
+            "disclaimer_text": "This site is informational in nature and is not intended to offer legal advice of any kind. For legal advice regarding your individual situation, please contact an attorney. While we invite your contact, contact does not establish an attorney-client relationship. Until an attorney-client relationship is established, please do not send us any confidential information."
+        }
+    }
+]
