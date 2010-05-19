@@ -1,3 +1,7 @@
+admin_media
+apache
+django
+registration
 db_data
 *.pyc
 *~
